@@ -6,4 +6,9 @@ body {
 		height: 1000px;
 		background: url('../images/first.jpg') no-repeat;
 		background-size: 100%;
+		text-align: center;
+		font-size: 40px;
+		font-weight: normal;
+		font-family: fantasy;
+		padding-top: 20px;
 	}
